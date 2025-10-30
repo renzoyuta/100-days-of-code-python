@@ -1,0 +1,151 @@
+<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp</h1>
+
+Projetos do curso da Udemy: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+
+## 🔰 Iniciante 
+- [Day 1:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day01) Working with Variables in Python to Manage Data
+- [Day 2:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day02) Understanding Data Types and How to Manipulate Strings
+- [Day 3:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day03) Control Flow and Logical Operators
+- [Day 4:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day04) Randomisation and Python Lists
+- [Day 5:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day05) Python Loops
+- [Day 6:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day06) Python Functions & Karel
+- [Day 7:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day07) Hangman
+- [Day 8:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day08) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day09) Dictionaries, Nesting and the Secret Auction
+- [Day 10:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day10) Functions with Outputs
+- [Day 11:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day11) The Blackjack Capstone Project
+- [Day 12:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day12) Scope & Number Guessing Game
+- [Day 13:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day13) Debugging: How to Find and Fix Errors in your Code
+- [Day 14:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day14) Higher Lower Game Project
+
+## 📚 Intermediário
+- [Day 15:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day15) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day16) Object Oriented Programming (OOP)
+- [Day 17:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day17) The Quiz Project & The Benefits of OOP
+- [Day 18:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day18) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day19) Instances, State and Higher Order Functions
+- [Day 20:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day20) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day22) Build Pong: The Famous Arcade Game
+- [Day 23:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day23) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day24) Files, Directories and Paths
+- [Day 25:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day25) Working with CSV Data and the Pandas Library
+- [Day 26:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day26) List Comprehension and the Nato Alphabet
+- [Day 27:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day27) Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day29) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day30) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day31) Flash Card App Capstone Project
+
+## 👨‍💻 Intermediário+
+- [Day 32:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 33:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day33) API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day34) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Day 36:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day36) Stock Trading News Alert Project
+- [Day 37:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day37) Habit Tracking Project: API Post Requests & Headers
+- [Day 38:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day38) Workout Tracking Using Google Sheets
+- [Day 39:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day39) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day40) Capstone Part 2: Flight Club
+- [Day 41:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day41) Introduction to HTML
+- [Day 42:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day42) Intermediate HTML
+- [Day 43:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day43) Introduction to CSS
+- [Day 44:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day44) Intermediate CSS
+- [Day 45:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day45) Web Scraping with Beautiful Soup
+- [Day 46:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day46) Create a Spotify Playlist Using The Musical Time Machine
+- [Day 47:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day47) Create an Automated Amazon Price Tracker
+- [Day 48:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day48) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day49) Automating Job Applications on LinkedIn
+- [Day 50:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day50) Auto Tinder Swiping Bot
+- [Day 51:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day51) Internet Speed Twitter Complaint Bot
+- [Day 52:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day52) Instagram Follower Bot
+- [Day 53:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day53) Web Scraping Capstone - Data Entry Job Automation
+- [Day 54:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day54) Introduction to Web Development with Flask
+- [Day 55:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day55) HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day56) Rendering HTML/Static Files and Using Website Templates
+- [Day 57:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day57) Templating with Jinja in Flask Applications
+- [Day 58:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day58) Web Foundation Boostrap
+
+## 🏆 Avançado
+- [Day 59:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day59) Blog Capstone Project Part 2 - Adding Styling
+- [Day 60:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day60) Make POST Requests with Flask and HTML Forms
+- [Day 61:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day61) Building Advanced Forms with Flask-WTForms
+- [Day 62:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day62) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- [Day 63:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day63) Databases and with SQLite and SQLAlchemy
+- [Day 64:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day64) My Top 10 Movies Website
+- [Day 65:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day65) How to Create a Website That People Will Love
+- [Day 66:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day66) Building Your Own API with RESTful Routing
+- [Day 67:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day67) Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day68) Authentication with Flask
+- [Day 69:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day69) Blog Capstone Project Part 4 - Adding Users
+- [Day 70:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day70) Deploying Your Web Application with Heroku
+- [Day 71:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day71) Data Exploration with Pandas: College Major vs. Your Salary
+- [Day 72:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day72) Data Visualisation with Matplotlib: Programming Languages
+- [Day 73:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day73) Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- [Day 74:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day74) Google Trends Data: Resampling and Visualising Time Series
+- [Day 75:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day75) Beautiful Plotly Charts & Analysing the Android App Store
+- [Day 76:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day76) Computation with NumPy and N-Dimensional Arrays
+- [Day 77:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day77) Linear Regression and Data Visualisation with Seaborn
+- [Day 78:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [Day 79:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [Day 80:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day80) Capstone Project - Predict House Prices
+
+## ⚔ Projetos Portfólio Profissionais
+- [Day 81:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day81) Text to Morse Code Converter
+- [Day 82:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day82) Portfolio Website
+- [Day 83:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day83) Tic Tac Toe
+- [Day 84:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day84) Image Watermarking Desktop App
+- [Day 85:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day85) Typing Speed Test App
+- [Day 86:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day86) Breakout: The Famous Arcade Game
+- [Day 87:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day87) Cafe and Wifi Website
+- [Day 88:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day88) To Do Agenda App
+- [Day 89:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day89) Disappearing Text Writing App
+- [Day 90:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day90) Convert PDF to Audiobook
+- [Day 91:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day91) Image to Color List
+- [Day 92:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day92) Amazon Canada Web Scraper
+- [Day 93:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day93) Google Dinosaur Game Bot
+- [Day 94:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day94) Space Invaders
+- [Day 95:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day95) Custom API
+- [Day 96:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day96) An Online Shop
+- [Day 97:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day97) Percentage Calculator
+- [Day 98:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day98) Analyzing and Visualizing the Space Race
+- [Day 99:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day99) Analyzing Deaths Involving Police in the United States
+- [Day 100:](https://github.com/renzoyuta/100-days-of-code-python/tree/main/Day100) Predicting Earnings using Multivariable Regression
+
+## ⚙ Ferramentas e tecnologias utilizadas
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
